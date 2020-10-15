@@ -1,5 +1,5 @@
 # Titanic: Machine Learning from Disaster
-### A ML challange from [Kaggle.com](https://www.kaggle.com/c/titanic)
+### A ML challenge from [Kaggle.com](https://www.kaggle.com/c/titanic)
 
 Goal: Use the given data to predict if a passenger would survive or not
 
