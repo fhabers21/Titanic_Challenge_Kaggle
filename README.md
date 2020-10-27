@@ -3,7 +3,7 @@
 
 Goal: Use the given data to predict if a passenger would survive or not
 
-### Score on Kaggle: 0.77751 
+### Score on Kaggle: 0.77751
 ### Place: 5912 out of 18042 
 ### Best performing algorithm: RandomForestClassifier
 
